@@ -1,0 +1,31 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap');
+
+#header{
+    height: 45rem;
+    background-color:#030506;
+    background-image: url('../../../public/assets/photo/asset\ 1.jpeg');
+    background-size: cover;
+    color: azure;
+  }
+  
+  #header .s1{
+    text-align: center;
+    padding-top: 280px; 
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 36px;
+    line-height: 28px;
+    letter-spacing: normal;
+    color: #ccc;
+  }
+  #header .s2{
+    text-align: center;
+    /* margin-top: 150px; */
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    line-height: 65px;
+    letter-spacing: normal;
+    color: #ccc;
+  }
+ 
